@@ -1,0 +1,13 @@
+This repository contains project templates for Xcode
+
+How to use the project templates
+================================
+Copy template to ~/Library/Application Support/Developer/Shared/Xcode/Project Templates/<some name> where some name is the name of
+a category, e.g. iPhone.
+
+
+iPhone Static Library With Bundle
+=================================
+TODO Commit
+
+Create an iPhone static library project that also contains a shareable bundle.
